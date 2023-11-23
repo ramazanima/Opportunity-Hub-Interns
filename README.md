@@ -2,7 +2,47 @@
 
 # Internship Opportunities
 
-Welcome to the Internship Opportunities repository! This project aims to provide a comprehensive and regularly updated list of internship opportunities across various fields such as Computer Science, Psychology, Biology, and more. It's designed to help students easily find relevant internships to gain valuable work experience.
+Welcome to Opportunity Hub Interns internship opportunities repository! This project is created as part of GSTR 310 assignment and 
+aims to provide a comprehensive and regularly updated list of internship opportunities across various fields at Berea College:
+
+# 1. Business Administration and Management 
+# 2. Computer and Information Sciences 
+# 3. Psychology 
+Biology/Biological Sciences 
+Human Development and Family Studies 
+Mass Communication/Media Studies 
+Engineering Technology 
+Political Science and Government 
+Art/Art Studies 
+Agriculture 
+English Language and Literature 
+Sociology 
+Mathematics 
+Chemistry 
+Drama and Dramatics/Theatre Arts 
+Registered Nursing/Registered Nurse
+Education 
+Spanish Language and Literature 
+Asian Studies/Civilization 
+Health and Physical Education/Fitness 
+Music
+Elementary Education and Teaching 
+Physics 
+Economics 
+African-American/Black Studies 
+Peace Studies and Conflict Resolution 
+Multi-/Interdisciplinary Studies 
+Philosophy 
+History 
+Music Teacher Education
+Junior High/Intermediate/Middle School Education and Teaching 
+French Language and Literature 
+Applied Mathematics 
+Religion/Religious Studies 
+Health and Wellness
+
+
+
 
 ## Table of Contents
 - [How to Use This Repository](#how-to-use-this-repository)
