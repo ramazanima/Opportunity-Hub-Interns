@@ -5,9 +5,9 @@
 Welcome to Opportunity Hub Interns internship opportunities repository! This project is created as part of GSTR 310 assignment and 
 aims to provide a comprehensive and regularly updated list of internship opportunities across various fields at Berea College:
 
-## 1. Business Administration and Management 
-## 2. Computer and Information Sciences 
-## 3. Psychology 
+### 1. Business Administration and Management 
+### 2. Computer and Information Sciences 
+### 3. Psychology 
 Biology/Biological Sciences 
 Human Development and Family Studies 
 Mass Communication/Media Studies 
